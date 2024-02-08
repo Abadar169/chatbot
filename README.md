@@ -61,9 +61,6 @@ Contributions to enhance the chatbot's functionality, improve security, or exten
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
